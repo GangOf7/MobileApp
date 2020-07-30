@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Black Pearl</string>
+
+    <string name="home_title_username">Hello,</string>
+    <string name="home_chart_text_device_safe">of your devices are safe</string>
+    <string name="home_chart_text_device_amber">of your devices needs attention</string>
+    <string name="home_chart_text_device_risk">of your devices is at risk</string>
+
+    <string name="home_chart_text_device_safe_all">All of your devices are safe</string>
+    <string name="home_chart_text_device_amber_all">All of your devices needs attention</string>
+    <string name="home_chart_text_device_risk_all">All of your devices is at risk</string>
+
+    <string name="home_card_general_guidelines">General Guidelines</string>
+    <string name="home_card_faq">F.A.Q.</string>
+    <string name="home_card_devices_all">All Devices</string>
+    <string name="home_card_devices_safe">Safe Devices</string>
+    <string name="home_card_devices_risk">At Risk Devices</string>
+    <string name="home_card_devices_inactive">Inactive Devices</string>
+
+    <string name="title_activity_device_list">DeviceList</string>
+    <string name="title_list_devices_all">Showing all devices</string>
+    <string name="sub_title_list_devices_all">Displaying the devices which are active, inactive, at risk and more...</string>
+    <string name="title_list_devices_safe">Showing all safe devices</string>
+    <string name="sub_title_list_devices_safe">This includes the devices which are performing good and do not need any attention.</string>
+    <string name="title_list_devices_risk">Showing all devices at risk</string>
+    <string name="sub_title_list_devices_risk">This includes which have notified abnormal behaviour. Action must be taken on these devices.</string>
+    <string name="title_list_devices_inactive">Showing all inactive devices</string>
+    <string name="sub_title_list_devices_inactive">This includes all the devices which are offline.</string>
+
+    <string name="device_last_updated_on">*device status as of  </string>
+    <string name="empty_list">No devices to show in this category.</string>
+
+</resources>

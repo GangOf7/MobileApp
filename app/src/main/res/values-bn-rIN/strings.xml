@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">কালো মুক্তা</string>
+    <string name="device_last_updated_on">* ডিভাইসের স্থিতি হিসাবে</string>
+    <string name="empty_list">এই বিভাগে দেখানোর জন্য কোনও ডিভাইস নেই।</string>
+    <string name="home_card_devices_all">সমস্ত ডিভাইস</string>
+    <string name="home_card_devices_inactive">নিষ্ক্রিয় ডিভাইসগুলি</string>
+    <string name="home_card_devices_risk">ঝুঁকিপূর্ণ ডিভাইসগুলিতে</string>
+    <string name="home_card_devices_safe">নিরাপদ ডিভাইস</string>
+    <string name="home_card_faq">F.A.Q.</string>
+    <string name="home_card_general_guidelines">সাধারণ নির্দেশিকা</string>
+    <string name="home_chart_text_device_amber">আপনার ডিভাইসের মনোযোগ প্রয়োজন</string>
+    <string name="home_chart_text_device_amber_all">আপনার সমস্ত ডিভাইসের মনোযোগ প্রয়োজন</string>
+    <string name="home_chart_text_device_risk">আপনার ডিভাইসগুলির ঝুঁকি রয়েছে</string>
+    <string name="home_chart_text_device_risk_all">আপনার সমস্ত ডিভাইস ঝুঁকিতে রয়েছে</string>
+    <string name="home_chart_text_device_safe">আপনার ডিভাইস নিরাপদ</string>
+    <string name="home_chart_text_device_safe_all">আপনার সমস্ত ডিভাইস নিরাপদ</string>
+    <string name="home_title_username">শুভেচ্ছা ,</string>
+    <string name="sub_title_list_devices_all">সক্রিয়, নিষ্ক্রিয়, ঝুঁকিতে এবং আরও অনেক কিছু এমন ডিভাইসগুলি প্রদর্শিত হচ্ছে ...</string>
+    <string name="sub_title_list_devices_inactive">এতে অফলাইন থাকা সমস্ত ডিভাইস অন্তর্ভুক্ত রয়েছে।</string>
+    <string name="sub_title_list_devices_risk">এতে অন্তর্ভুক্ত রয়েছে যা অস্বাভাবিক আচরণকে অবহিত করেছে। এই ডিভাইসগুলিতে অবশ্যই পদক্ষেপ নেওয়া উচিত।</string>
+    <string name="sub_title_list_devices_safe">এর মধ্যে এমন ডিভাইসগুলি অন্তর্ভুক্ত রয়েছে যাগুলি ভাল পারফর্ম করছে এবং কোনও মনোযোগ দেওয়ার দরকার নেই।</string>
+    <string name="title_activity_device_list">ডিভাইসের তালিকা</string>
+    <string name="title_list_devices_all">সমস্ত ডিভাইস দেখানো হচ্ছে</string>
+    <string name="title_list_devices_inactive">সমস্ত নিষ্ক্রিয় ডিভাইস দেখানো হচ্ছে</string>
+    <string name="title_list_devices_risk">ঝুঁকিতে থাকা সমস্ত ডিভাইস দেখানো হচ্ছে</string>
+    <string name="title_list_devices_safe">সমস্ত নিরাপদ ডিভাইস দেখানো হচ্ছে</string>
+</resources>

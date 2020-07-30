@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26C6DA</color>
+    <color name="colorPrimaryDark">#313847</color>
+
+    <color name="colorAccent">#E91E63</color>
+    <color name="colorSplash">#4DB6AC</color>
+    <color name="colorBlack">#282828</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+
+    <color name="colorBackgroundDark">#F7EDE9</color>
+
+
+    <color name="colorStatusGreen">#1DB954</color>
+    <color name="colorStatusAmber">#FB8C00</color>
+    <color name="colorGraphAmber_transparent">#5BFB8C00</color>
+
+
+    <color name="colorStatusRed">#E50914</color>
+    <color name="colorGraphGreen">#128C7E</color>
+    <color name="colorGraphGreen_transparent">#5B1DB954</color>
+
+    <!-- Shades Green-->
+    <color name="color_green_light">#1DB954</color>
+    <color name="color_green_teal_dark">#075E54</color>
+    <color name="color_green_teal">#128C7E</color>
+    <color name="color_green_accent">#1DB954</color>
+
+    <!--Shades Grey-->
+    <color name="color_grey">#737373</color>
+    <color name="color_black_almost">#282828</color>
+    <color name="color_grey_dark">#657786</color>
+    <color name="color_grey_light">#B5B5BE</color>
+
+
+
+    <!--Shades Red-->
+    <color name="color_red">#E50914</color>
+    <color name="color_red_dark">#E60023</color>
+    <color name="colorStatusRed_transparent">#5BE50914</color>
+
+    <!--Shades Blue-->
+    <color name="color_blue_accent">#34B7F1</color>
+    <color name="color_blue_light">#E3F2FD</color>
+    <color name="color_blue_light_statusBar">#ADCEFF</color>
+
+
+    <!--Shades Purple-->
+    <color name="color_purple_dark">#4D148C</color>
+    <color name="color_purple_light">#A77BCA</color>
+
+</resources>
