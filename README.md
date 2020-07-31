@@ -7,7 +7,7 @@ Black Pearl provides with a 360-view of the status of every installed device dis
 <img width="240" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_home_english.png"><img width="240" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_home_bangla.png"><img width="240" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_device_list.png"><img width="240" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_device_detail.png"><img width="240" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_detail_chart.png">
 
 ## Youtube Clip for the initiative
-https://youtu.be/CSEZSGFQ9V4
+https://youtu.be/GaAZ0jDPT0A
 
 ## Technology
 &nbsp;&nbsp;Android Studio <br>
