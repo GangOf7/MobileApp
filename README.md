@@ -1,5 +1,5 @@
 &nbsp;&nbsp;
-<img width="960" style="align-content: left;" height="300" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img style="align-content: left;" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 ## About
 Black Pearl provides with a 360-view of the status of every installed device displays statistical data for monitoring and research purpose. It enables user to monitor device(s) in the remote loaction, showcasing the interactive overall status of all devices while options to select devices on the basis of nature. It also represents the individual device performance in form of graphical representations. 
