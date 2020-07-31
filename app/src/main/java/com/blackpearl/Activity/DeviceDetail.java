@@ -55,7 +55,7 @@ public class DeviceDetail extends AppCompatActivity {
         final Device device = user.getDeviceDetail().get(devicePosition);
 
         activityTitle.setText(device.getDevice_Name() + " at " + device.getArea());
-        lastUpdatedOn.setText(getString(R.string.device_last_updated_on) + " " + device.getLastupdatedon());
+        lastUpdatedOn.setText(getString(R.string.device_last_updated_on) + " 29th July, 2020" + device.getLastupdatedon());
         displayCurrentDetails(device);
 
         final LinearLayout layout_chart_temperature = findViewById(R.id.layout_chart_temperature);
@@ -210,7 +210,7 @@ public class DeviceDetail extends AppCompatActivity {
             mChart.getData().notifyDataChanged();
             mChart.notifyDataSetChanged();
         } else {
-            set1 = new LineDataSet(values, label + " as on 18 July, 2020");
+            set1 = new LineDataSet(values, label + " as on 29 July, 2020");
             set1.setDrawIcons(false);
             set1.enableDashedLine(10f, 5f, 0f);
             set1.enableDashedHighlightLine(10f, 5f, 0f);
