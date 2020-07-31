@@ -4,8 +4,8 @@
 ## About
 Black Pearl provides with a 360-view of the status of every installed device displays statistical data for monitoring and research purpose. It enables user to monitor device(s) in the remote loaction, showcasing the interactive overall status of all devices while options to select devices on the basis of nature. It also represents the individual device performance in form of graphical representations. <br>
 
-<img width="200" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_home_english.png.png">
-<img width="200" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_home_bangla.png.png">
+<img width="200" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_home_english.png">
+<img width="200" style="align-content: center;" height="400" src="https://github.com/GangOf7/MobileApp/blob/master/app/src/main/res/drawable-mdpi/app_home_bangla.png">
 
 ## Youtube Clip for the initiative
 https://youtu.be/CSEZSGFQ9V4
