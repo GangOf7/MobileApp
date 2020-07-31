@@ -36,9 +36,9 @@ dependencies {
 
 ## Permissions:-
 
-Full Network Access.
-View Network Connections.
-Read and write access to external storage.
+Full Network Access <br>
+View Network Connections<br>
+Read and write access to external storage<br>
 
 The network access permissions are made use of for downloading content. The external storage permission is used to cache article images for viewing offline. 
 
